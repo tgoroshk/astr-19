@@ -17,12 +17,12 @@ def main():
 	print(f"In each case, have the program print out the data type of the resulting answer")
 	print(f"-------------------------------------------------------\n")
 
+	print(f"My program output below:")
+	
 	f1 = 1.1   #float 1
 	f2 = 1.2	#float 2
 	i1 = 2	#1st int 
 	i2 = 3	#2nd int 
-	
-	print(f"My program output below:")
 
 	float_sum = f1 + f2		#sum of float f1 and float f2
 	print(f"Sum of two floating point numbers {f1} and {f2} = {float_sum}") #prints result of float_sum
