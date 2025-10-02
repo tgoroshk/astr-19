@@ -38,5 +38,7 @@ def main():
 	print(f"Product of a floating point number {f2} and {i1} = {float_int_prod}")	#prints result of float_int_prod
 	print(f"Result above has type {type(float_int_prod)}") # prints type of float_int_prod
 
+	print("end")
+
 if __name__ == "__main__":
 	main()
